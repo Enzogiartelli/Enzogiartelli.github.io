@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type= "image/x-icon" href="pride clothing.png">
+    <link rel="stylesheet" href="contato.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ABeeZee&family=Amethysta&family=Rock+Salt&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/e04ecb2a5f.js" crossorigin="anonymous"></script>
+    <title>Pride</title>
+  </head>
+  <body class="fundo">
+    <nav>
+      <div class="cabecalho">
+        <span onclick="window.location.href='index.html';">
+          <img src="pride clothing.png">
+        </span>
+      <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+      <a href="contato.html">Quem somos?<br>  Contato</a> 
+  
+      <a href="#"><i class="fa-solid fa-shirt"></i> Entrar</a>
+      <p>
+        <b>Se vista com orgulho!</b>
+      </p>
+    </div>
+    <div class="botoes">
+      <button onclick="window.location.href='products.html'" id="btn1"><b>Camisetas</b></button>
+      <button onclick="window.location.href='products.html'" id="btn2"><b>Calças</b></button>
+      <button onclick="window.location.href='products.html'" id="btn3"><b>Blusões</b></button>
+      <button onclick="window.location.href='products.html'" id="btn4"><b>Moletons</b></button>
+      <button onclick="window.location.href='products.html'" id="btn5"><b>Tênis</b></button>
+      <button onclick="window.location.href='products.html'" id="btn6"><b>Manga Longa</b></button>
+      <button onclick="window.location.href='products.html'" id="btn7"><b>Acessórios</b></button>
+    </div>
+    </nav>
+    <img class="fundo" src="grey.png" id="fundo">
+
+    <div class="fundo">
+
+      <div id="titulo1"><b>Quem Somos?</b></div>
+      <div id="subtitulo1">Nós somos a Pride Store, <p>feitos para aqueles que não tem medo de se vestir do jeito que quiser! <p> Nosso objetivo é mostrar para todos que somos livres para no <p> expressarmos da forma que nos sentirmos a vontade! </div>
+      <div id="titulo2"><b>Contato</b></div>
+      <div id="subtitulo2">email:<p> pridestore121@gmail.com <p>telefone<p>99999-9999</div>
+      <div id="titulo3"><b>Contate a gente!</b></div>
+
+      <form action="/formulario-contato" method="post">
+    <div>
+        <label for="nome">Nome:</label>
+        <input type="texto" id="nome" name="nome_usuario">
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email_usuario">
+    </div>
+    <div>
+        <label for="texto">Texto:</label>
+        <textarea id="texto" name="texto_usuario"></textarea>
+    </div>
+</form>
+  </body>
+</html>

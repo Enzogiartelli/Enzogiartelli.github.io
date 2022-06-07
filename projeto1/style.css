@@ -1,0 +1,147 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #ffffff;
+}
+.cabecalho {
+	overflow: hidden;
+	font-size: 25px;
+	background-color: #CF9FFF;
+}
+.cabecalho a {
+	font-family: 'Amethysta', serif;
+	font-style: bold;
+	color: black;
+	float: right;
+	padding: 20px;
+	margin-top: 30px;
+	margin: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+.cabecalho img {
+	float: left;
+	padding: 20px;
+	width: 150px;
+}
+.cabecalho p {
+	cursor: default;
+	font-family: 'Rock Salt', cursive;
+	font-size:20px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 10px;
+	padding: 5px;
+}
+.cabecalho span {
+	cursor: pointer;
+}
+.botoes {
+	background-color: black;
+}
+.botoes button {
+	float: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 130px;
+	padding: 10px;
+	width: 120px;
+	height: 50px;
+	border:none;
+	border-radius: 10px;
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+#btn1 {
+	background-color: #FF5757;
+}
+#btn2 {
+	background-color: #FFB224;
+}
+#btn3 {
+	background-color: #F5F500;
+}
+#btn4 {
+	background-color: #62f500;
+}
+#btn5 {
+	background-color: #00CCFF;
+}
+#btn6 {
+	background-color: #5757FF;
+}
+#btn7 {
+	background-color: #8A2BE2;
+}
+
+#imgfretegratis{
+width: 100%;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.destaques {
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 64px;
+	color: black;
+	text-shadow: 1.5px 5.5px 3px rgb(78, 78, 78);
+	
+}
+
+.dstq{
+	background-color: #CF9FFF;
+	text-align: center;
+	height: 120px;
+	padding-top: 25px;
+	letter-spacing: 4px;
+}
+
+.div2{
+	background-color: #D3D3D3;
+}
+
+#imgblack{
+	width: 50%;
+}
+
+#imgcalca{
+height: 531px;
+position: relative;
+right: 770px;
+}
+
+#titulocalca{
+font-family: 'ABeeZee', sans-serif;
+font-size: 70px;
+position: relative;
+left: 1200px;
+bottom: 500px;
+}
+
+
+#desccalca{
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 25px;
+	color: #767676;
+	
+}
+.calca {
+	background-color: #D3D3D3;
+	display: flex;
+}
+.calca h1 {
+	width: 100px;
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 50px;
+}
+.calca p {
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 25px;
+	color: #767676;
+}
+

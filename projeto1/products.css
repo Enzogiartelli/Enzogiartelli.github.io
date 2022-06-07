@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+	background-color: #ffffff;
+}
+.cabecalho {
+	overflow: hidden;
+	font-size: 25px;
+	background-color: #CF9FFF;
+}
+.cabecalho a {
+	font-family: 'Amethysta', serif;
+	font-style: bold;
+	color: black;
+	float: right;
+	padding: 20px;
+	margin-top: 30px;
+	margin: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+.cabecalho img {
+	float: left;
+	padding: 20px;
+	width: 150px;
+}
+.cabecalho p {
+	cursor: default;
+	font-family: 'Rock Salt', cursive;
+	font-size:20px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 10px;
+	padding: 5px;
+}
+.cabecalho span {
+	cursor: pointer;
+}
+.botoes {
+	background-color: black;
+}
+.botoes button {
+	float: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 130px;
+	padding: 10px;
+	width: 120px;
+	height: 50px;
+	border:none;
+	border-radius: 10px;
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+#btn1 {
+	background-color: #FF5757;
+}
+#btn2 {
+	background-color: #FFB224;
+}
+#btn3 {
+	background-color: #F5F500;
+}
+#btn4 {
+	background-color: #62f500;
+}
+#btn5 {
+	background-color: #00CCFF;
+}
+#btn6 {
+	background-color: #5757FF;
+}
+#btn7 {
+	background-color: #8A2BE2;
+}

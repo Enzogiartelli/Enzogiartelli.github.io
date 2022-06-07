@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+background-color: white;
+}
+
+.head{
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+}
+
+
+.head{
+	position: relative;
+	top: -8.5px;
+	left: -7.7px;
+	width: 101%;
+	background-color: #CF9FFF;
+}
+
+
+.logo{
+	margin-left: -180px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+body{
+background-color: white;
+margin: 0;
+padding: 0;
+}
+
+.head{
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+}
+
+
+.head{
+	position: relative;
+	top: -8.5px;
+	left: -7.7px;
+	width: 101%;
+	background-color: #CF9FFF;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+background-color: white;
+}
+
+.head{
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+}
+
+
+.head{
+	position: relative;
+	top: -8.5px;
+	left: -7.7px;
+	width: 101%;
+	background-color: #CF9FFF;
+}
+
+
+.logo{
+	margin-left: -180px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+body{
+margin: 0;
+padding: 0;
+}
+
+.head{
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+}
+
+
+.head{
+	position: relative;
+	top: -8.5px;
+	left: -7.7px;
+	width: 101%;
+	background-color: #CF9FFF;
+}
+
+
+.logo{
+	margin-left: -180px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+
+
+.cabecalho {
+	background-color: #CF9FFF;
+
+}
+.cabecalho img {
+	padding: 20px;
+	float: left;
+	width: 100px;
+}
+.cabecalho a {
+    color: black;
+	font-family: 'Amethysta', serif;
+	float: right;
+	padding: 30px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.cabecalho span {
+	cursor: pointer;
+}
+.cabecalho p {
+	cursor: default;
+	font-family: 'Rock Salt', cursive;
+	font-size:16px;
+	float: left;
+	margin-top: 30px;
+	padding: 5px;
+}
+html{
+	overflow-x: hidden;
+}
+
+
+
+#txtBusca{
+  background-color:transparent;
+  padding-left:15px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:380px;
+}
+
+
+
+.titulo-logo1{
+	font-family: 'Rock Salt', cursive;
+	font-size:16px;
+	position: relative;
+	float: left;
+	left: 70%;
+	top: 15px;
+	text-shadow: black,  0.1em 0.1em 0.2em;
+}
+
+.titulo-logo2{
+	font-family: 'Rock Salt', cursive;
+	font-size:16px;
+	position: relative;
+	float: left;
+	left: 11%;
+	top: 50px;
+
+}
+
+.head input{
+	position: relative;
+	float: center;
+}
+.botoes {
+	background-color: black;
+
+}
+.botoes button {
+	float: center;
+	width: 100px;
+	height: 50px;
+	margin: 10px;
+}
+
+
+
+
